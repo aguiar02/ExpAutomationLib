@@ -1,0 +1,9 @@
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\obj\Debug\ExpAutomationLib.Clipboard.csprojResolveAssemblyReference.cache
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\bin\Debug\ExpAutomationLib.Clipboard.dll
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\bin\Debug\ExpAutomationLib.Clipboard.pdb
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\bin\Debug\ExpAutomationLib.dll
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\bin\Debug\ExpCalculatorLib.dll
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\bin\Debug\ExpAutomationLib.pdb
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\bin\Debug\ExpCalculatorLib.pdb
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\obj\Debug\ExpAutomationLib.Clipboard.dll
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.Clipboard\obj\Debug\ExpAutomationLib.Clipboard.pdb

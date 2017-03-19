@@ -1,0 +1,9 @@
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\obj\Debug\ExpAutomationLib.File.csprojResolveAssemblyReference.cache
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\bin\Debug\ExpAutomationLib.File.dll
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\bin\Debug\ExpAutomationLib.File.pdb
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\bin\Debug\ExpAutomationLib.dll
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\bin\Debug\ExpCalculatorLib.dll
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\bin\Debug\ExpAutomationLib.pdb
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\bin\Debug\ExpCalculatorLib.pdb
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\obj\Debug\ExpAutomationLib.File.dll
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\ExpAutomationLib.File\obj\Debug\ExpAutomationLib.File.pdb

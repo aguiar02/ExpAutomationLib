@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9F4BEF98-9027-40DB-96C6-5FBB404D3A09}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ExpAutomationLib</RootNamespace>
+    <AssemblyName>ExpAutomationLib</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Action\BlockAction.cs" />
+    <Compile Include="Action\IHasInnerAction.cs" />
+    <Compile Include="Action\RunApplicationAction.cs" />
+    <Compile Include="Action\ExecuteCmdAction.cs" />
+    <Compile Include="Action\HTTPAction.cs" />
+    <Compile Include="Action\ForAction.cs" />
+    <Compile Include="Action\IAction.cs" />
+    <Compile Include="Action\IfAction.cs" />
+    <Compile Include="Action\SetPropertyValueAction.cs" />
+    <Compile Include="Action\SetVariableAction.cs" />
+    <Compile Include="Action\ShowMessageAction.cs" />
+    <Compile Include="Action\StartServiceAction.cs" />
+    <Compile Include="Action\StopServiceAction.cs" />
+    <Compile Include="Action\WhileAction.cs" />
+    <Compile Include="AutomationService.cs" />
+    <Compile Include="Exception\ActionExecutionException.cs" />
+    <Compile Include="ExpHelper.cs" />
+    <Compile Include="Profile.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serialization\AtomicActionSerializer.cs" />
+    <Compile Include="Serialization\BlockActionSerializer.cs" />
+    <Compile Include="Serialization\HasInnerActionSerializer.cs" />
+    <Compile Include="Serialization\ISerializer.cs" />
+    <Compile Include="Serialization\ListSerializer.cs" />
+    <Compile Include="Serialization\ProfilesSerializer.cs" />
+    <Compile Include="Serialization\SerializerHelper.cs" />
+    <Compile Include="Serialization\SerializerProvider.cs" />
+    <Compile Include="Serialization\TriggerSerializer.cs" />
+    <Compile Include="Serialization\XmlAnything.cs" />
+    <Compile Include="Serialization\XmlSerializableList.cs" />
+    <Compile Include="Task\ITask.cs" />
+    <Compile Include="Task\TaskBase.cs" />
+    <Compile Include="Trigger\DateTrigger.cs" />
+    <Compile Include="Trigger\DefaultTrigger.cs" />
+    <Compile Include="Trigger\DrivePlugTrigger.cs" />
+    <Compile Include="Trigger\DrivePresentTrigger.cs" />
+    <Compile Include="Trigger\HTTPListenerTrigger.cs" />
+    <Compile Include="Trigger\IEventTrigger.cs" />
+    <Compile Include="Trigger\IStateTrigger.cs" />
+    <Compile Include="Trigger\ITrigger.cs" />
+    <Compile Include="Trigger\IWindowsMessageTrigger.cs" />
+    <Compile Include="Trigger\ServiceStartTrigger.cs" />
+    <Compile Include="Trigger\TimeIntervalRepeatTrigger.cs" />
+    <Compile Include="Trigger\TimeIntervalTrigger.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExpCalculatorLib\ExpCalculatorLib.csproj">
+      <Project>{0D7D638B-C337-4480-90CF-8575242139AC}</Project>
+      <Name>ExpCalculatorLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

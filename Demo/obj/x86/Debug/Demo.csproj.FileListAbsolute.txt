@@ -1,0 +1,21 @@
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\obj\x86\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\Demo.exe
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\Demo.pdb
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\obj\x86\Debug\Demo.exe
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpAutomationLib.dll
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpCalculatorLib.dll
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpAutomationLib.pdb
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpCalculatorLib.pdb
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpAutomationLib.Clipboard.dll
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpAutomationLib.Clipboard.pdb
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\Profiles.xml
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpAutomationLib.File.dll
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpAutomationLib.File.pdb
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpAutomationLib.Text.dll
+C:\Users\hf9w\documents\visual studio 2010\Projects\ExpAutomationLib\Demo\bin\Debug\ExpAutomationLib.Text.pdb
+G:\Documents\Desenvolvimento\Projetinhos\ExpAutomationLib\Demo\obj\x86\Debug\Demo.exe
+G:\Documents\Desenvolvimento\Projetinhos\ExpAutomationLib\Demo\obj\x86\Debug\Demo.pdb

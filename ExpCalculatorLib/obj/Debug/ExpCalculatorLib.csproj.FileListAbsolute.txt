@@ -1,0 +1,10 @@
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\bin\Debug\ExpCalculatorLib.dll
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\bin\Debug\ExpCalculatorLib.pdb
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\obj\Debug\ExpCalculatorLib.dll
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\obj\Debug\ExpCalculatorLib.pdb
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\obj\Debug\ExpCalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpCalculatorLib\bin\Debug\ExpCalculatorLib.dll
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpCalculatorLib\bin\Debug\ExpCalculatorLib.pdb
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpCalculatorLib\obj\Debug\ExpCalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpCalculatorLib\obj\Debug\ExpCalculatorLib.dll
+C:\Users\hf9w\Documents\Visual Studio 2010\Projects\ExpAutomationLib\ExpCalculatorLib\obj\Debug\ExpCalculatorLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\bin\Release\ExpCalculatorLib.dll
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\bin\Release\ExpCalculatorLib.pdb
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\obj\Release\ExpCalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\obj\Release\ExpCalculatorLib.dll
+C:\Users\hf9w\Documents\Workspaces\QVX9\SECSUB\ExpCalculatorLib\obj\Release\ExpCalculatorLib.pdb
